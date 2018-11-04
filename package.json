@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "styles": "./cli.js"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.2",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
+  }
 }
