@@ -1,2 +1,9 @@
+# Build Output
+dist/ 
+
 # Dependencies
 node_modules/
+
+# Mac OSX Finder files.
+**/.DS_Store
+.DS_Store
